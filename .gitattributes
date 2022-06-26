@@ -1,2 +1,7 @@
 *.d linguist-language=Dart
+*.h linguist-language=Dart
+*.cc linguist-language=Dart
+*.cpp linguist-language=Dart
+*.java linguist-language=Dart
+*.html linguist-language=Dart
 *.glyphs linguist-language=OpenStep-Property-List
