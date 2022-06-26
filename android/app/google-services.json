@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "984850102405",
+    "firebase_url": "https://book-logging-app-default-rtdb.firebaseio.com",
+    "project_id": "book-logging-app",
+    "storage_bucket": "book-logging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984850102405:android:15fa1cff2708faf05951ec",
+        "android_client_info": {
+          "package_name": "com.example.book_logging_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984850102405-isska2j9jc9mvcuh0jehokrf00p3ikn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_logging_app",
+            "certificate_hash": "8fbe92c551ddd483175521f242878db2334e61c6"
+          }
+        },
+        {
+          "client_id": "984850102405-i2muc15u94gfvr4952mp2l5pv1f2rnle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBr5Rq-kIEI97kEtd1qz8TGh6T7ntk1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984850102405-i2muc15u94gfvr4952mp2l5pv1f2rnle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

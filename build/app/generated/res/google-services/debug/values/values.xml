@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">984850102405-i2muc15u94gfvr4952mp2l5pv1f2rnle.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">984850102405</string>
+    <string name="google_api_key" translatable="false">AIzaSyDTBr5Rq-kIEI97kEtd1qz8TGh6T7ntk1w</string>
+    <string name="google_app_id" translatable="false">1:984850102405:android:15fa1cff2708faf05951ec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDTBr5Rq-kIEI97kEtd1qz8TGh6T7ntk1w</string>
+    <string name="google_storage_bucket" translatable="false">book-logging-app.appspot.com</string>
+    <string name="project_id" translatable="false">book-logging-app</string>
+</resources>

@@ -1,2 +1,2 @@
 # BookTracker
-BookTracker app with Flutter, Firebase and Google Books API
+ BookTracker app with Flutter, Google Books API and Firebase
