@@ -12,3 +12,5 @@
 *.Makefile text
 *.md text
 *.yaml text
+
+*.Makefile linguist-detectable=false
