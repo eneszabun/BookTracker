@@ -3,7 +3,7 @@
 *.log
 *.pyc
 *.swp
-*.Makefile
+*.makefile
 .DS_Store
 .atom/
 .buildlog/
